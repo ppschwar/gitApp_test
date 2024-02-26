@@ -1,1 +1,2 @@
 - Adding things to change the status of my file. 
+- Adding some more text create merge conflict, in order to resolve common error
